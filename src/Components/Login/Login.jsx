@@ -81,7 +81,7 @@ function Login() {
 
 
                         <div className='flex flex-col justify-center gap-5 items-center'>
-                            <div className='flex flex-col justify-center mt-5  w-[90%] border border-blue-500'>
+                            <div className='flex flex-col justify-center mt-5  w-[90%] '>
 
                                 <input type="mail" placeholder='Email' className=' outline-blue-500 px-10 w-[100%] py-4 bg-[#f5f5f5]   rounded-md ' />
                                 <User2Icon className='absolute text-gray-500 ml-2' />
